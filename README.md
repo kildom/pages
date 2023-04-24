@@ -7,3 +7,5 @@ $$
 
 where $x$ is a result.
 
+where $$x$$ is a result.
+
