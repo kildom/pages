@@ -2,7 +2,7 @@
 Github pages playground
 
 $$
-y = \sin\(x\)
+y = \sin(x)
 $$
 
 where $x$ is a result.
